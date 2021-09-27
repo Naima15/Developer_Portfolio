@@ -1,0 +1,121 @@
+[{
+     "id": 1,
+     "name": "Jules Rawes",
+     "title": ".NET Web Developer",
+     "address": "Edinburgh, United Kingdom",
+     "imgURL": "https://i.ibb.co/xSRCgjR/p2.webp",
+     "hourlyRate": 52,
+     "skills": "ASP.NET, VB.NET"
+   }, {
+     "id": 2,
+     "name": "Sayers Lindman",
+     "title": "Front End Web Developer",
+     "address": "Brooklyn, United States",
+     "imgURL": "https://i.ibb.co/5271P0M/p1.webp",
+     "hourlyRate": 48,
+     "skills": "JS, Squarespace"
+   }, {
+     "id": 3,
+     "name": "Berty Meth",
+     "title": "Senior developer",
+     "address": "zaporizhzhia, Ukraine",
+     "imgURL": "https://i.ibb.co/3WwH8m0/p15.webp",
+     "hourlyRate": 57,
+     "skills": "PHP, React.js, Node.js"
+   }, {
+     "id": 4,
+     "name": "Oliviero Volette",
+     "title": "Full-Stack Developer",
+     "address": "Banska Bystrica, Slovakia",
+     "imgURL": "https://i.ibb.co/5kDHqd5/p14.webp",
+     "hourlyRate": 45,
+     "skills": "SQL, C#, JavaScript"
+   }, {
+     "id": 5,
+     "name": "Rebecka Balasin",
+     "title": "ASP.NET Developer",
+     "address": "864 Marquette Hill",
+     "imgURL": "https://i.ibb.co/sCnjNdy/p13.webp",
+     "hourlyRate": 34,
+     "skills": "ASP.NET, Redux, React"
+   }, {
+     "id": 6,
+     "name": "Vaclav Addey",
+     "title": "JavaScript Developer",
+     "address": "2 International Way",
+     "imgURL": "https://i.ibb.co/xDBRM7s/p12.webp",
+     "hourlyRate": 38,
+     "skills": "Yii, MySQL, Magento"
+   }, {
+     "id": 7,
+     "name": "Joshua Lillford",
+     "title": "JavaScript Developer",
+     "address": "65 Twin Pines Plaza",
+     "imgURL": "https://i.ibb.co/TPmv3BL/p11.webp",
+     "hourlyRate": 52,
+     "skills": "HTML, Python, Django"
+   }, {
+     "id": 8,
+     "name": "Celene Romand",
+     "title": "ASP.NET Developer",
+     "address": "69736 Delladonna Center",
+     "imgURL": "https://i.ibb.co/K974m71/p10.webp",
+     "hourlyRate": 60,
+     "skills": "ASP.NET, Redux, React"
+   }, {
+     "id": 9,
+     "name": "Benoit Ferrieroi",
+     "title": "Web Developer",
+     "address": "97767 Rusk Drive",
+     "imgURL": "https://i.ibb.co/H4X68H9/p9.webp",
+     "hourlyRate": 57,
+     "skills": "ColdFusionWeb, Testing"
+   }, {
+     "id": 10,
+     "name": "Pancho Gretton",
+     "title": "Web Developer",
+     "address": "53 Cherokee Court",
+     "imgURL": "https://i.ibb.co/NS2Fsx4/p8.webp",
+     "hourlyRate": 57,
+     "skills": "HTMLWeb, Design"
+   }, {
+     "id": 11,
+     "name": "Christy Cordeau]",
+     "title": "CSS Developer",
+     "address": "4 Northwestern Street",
+     "imgURL": "https://i.ibb.co/kGnCqD4/p7.webp",
+     "hourlyRate": 30,
+     "skills": "PSD to Wordpress"
+   }, {
+     "id": 12,
+     "name": "Barbra Dani",
+     "title": "Windows App Developer",
+     "address": "2 Buell Drive",
+     "imgURL": "https://i.ibb.co/b2b4VZZ/p-6.webp",
+     "hourlyRate": 56,
+     "skills": "C#, C++, SQL, Java"
+   }, {
+     "id": 13,
+     "name": "Berti Izac",
+     "title": "CSS Developer",
+     "address": "676 Crescent Oaks Way",
+     "imgURL": "https://i.ibb.co/SNr7J08/p5.webp",
+     "hourlyRate": 22,
+     "skills": " CSS, APEX, HTML5"
+   }, {
+     "id": 14,
+     "name": "Wallas Rosenbush",
+     "title": "Windows App Developer",
+     "address": "19218 Sutteridge Center",
+     "imgURL": "https://i.ibb.co/cQLjPXj/p4.webp",
+     "hourlyRate": 31,
+     "skills": "C#, C++, SQL, Java"
+   }, {
+     "id": 15,
+     "name": "Melantha Corballis",
+     "title": "ASP.NET Developer",
+     "address": "2 Buell Drive",
+     "imgURL": "https://i.ibb.co/FbxKSh0/p3.webp",
+     "hourlyRate": 70,
+     "skills": "ASP.NET, C#, SAP B1"
+   }]
